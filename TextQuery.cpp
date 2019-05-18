@@ -87,3 +87,4 @@ std::ostream &print(std::ostream &os, const QueryResult &qr)
 
   return os;
 }
+

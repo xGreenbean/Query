@@ -27,3 +27,4 @@ private:
 };
 std::ostream &print(std::ostream &os, const QueryResult &qr);
 #endif
+

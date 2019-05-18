@@ -69,10 +69,12 @@ class NQuery : public AndQuery {
   private:
     int dist;
 };
+<<<<<<< HEAD
 class UrQuery : public QueryBase {
 public:
 	UrQuery();
 	QueryResult eval(const TextQuery&) const;
 	std::string rep() const;
 };
+
 #endif

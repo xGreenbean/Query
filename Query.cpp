@@ -181,3 +181,4 @@ QueryResult NQuery::eval(const TextQuery &text) const
 //std::string UrQuery::rep() const {
 //	return "Unrecognized Search";
 //}
+

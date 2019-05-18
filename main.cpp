@@ -29,13 +29,3 @@ int main(int argc, char **argv)
   }
   exit(0);
 }
-//int main() {
-//	regex words_regex("([\\w']+)");
-//	string s = "\"selfie\".";
-//	auto words_begin = std::sregex_iterator(s.begin(), s.end(), words_regex);
-//	auto words_end = std::sregex_iterator();
-//	if (std::distance(words_begin, words_end) > 0)
-//		cout << (*words_begin)[1].str();
-//	system("pause");
-//		
-//}
